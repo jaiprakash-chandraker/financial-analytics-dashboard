@@ -17,7 +17,7 @@ To build a dashboard that tracks KPIs, identifies revenue trends, and detects an
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_preview.png.p)
+![Dashboard](dashboard_preview.png)
 
 ## Business Impact
 This dashboard enables stakeholders to:
