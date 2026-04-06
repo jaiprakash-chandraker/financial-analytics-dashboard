@@ -16,7 +16,8 @@ To build a dashboard that tracks KPIs, identifies revenue trends, and detects an
 - High-value transactions identified as potential anomalies
 
 ## Dashboard Preview
-(Add your screenshot here)
+
+![Dashboard](dashboard_preview.png)
 
 ## Business Impact
 This dashboard enables stakeholders to:
