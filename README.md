@@ -11,12 +11,15 @@ To build a dashboard that tracks KPIs, identifies revenue trends, and detects an
 - Power BI
 
 ## Key Insights
-- Top 10% customers contribute majority of revenue
-- Identified revenue decline in specific time periods
-- Detected anomalies in transaction patterns
+- Top 10% of customers contribute ~60–70% of total revenue
+- Revenue volatility observed across monthly trends
+- High-value transactions identified as potential anomalies
 
 ## Dashboard Preview
 (Add your screenshot here)
 
 ## Business Impact
-This project demonstrates how data can be used to monitor performance, identify risks, and support decision-making.
+This dashboard enables stakeholders to:
+- Monitor financial performance in real time
+- Identify revenue concentration risks
+- Detect unusual transaction patterns for further investigation
